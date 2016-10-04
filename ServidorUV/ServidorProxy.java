@@ -1,5 +1,3 @@
-package ServidorUV;
-
 import java.io.IOException;
 import java.net.ServerSocket;
 
